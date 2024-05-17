@@ -46,9 +46,6 @@ $result = $conn->query($sql);
                 <a class="nav-link active" aria-current="page" href="detailEvent.php">Detail event</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="gestionEvent.php">Gestion event</a>
-              </li>
-              <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="admin.php">Admin</a>
               </li>
             </ul>
