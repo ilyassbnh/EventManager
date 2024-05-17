@@ -28,7 +28,7 @@
             <a class="nav-link active" aria-current="page" href="gestionEvent.php">Gestion event</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="UserAccout.php">User Account</a>
+            <a class="nav-link active" aria-current="page" href="Admin.php">Admin</a>
           </li>
         </ul>
         <form class="d-flex" role="search">
